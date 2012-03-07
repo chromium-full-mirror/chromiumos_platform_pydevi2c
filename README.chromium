@@ -1,0 +1,8 @@
+DESCRIPTION="Python bindings for talking to /dev/i2c devices"
+HOMEPAGE="https://sites.google.com/a/chromium.org/dev/pydevi2c"
+UPSTREAM_REPO="None"
+LOCAL_GIT_REPO="http://git.chromium.org/git/chromiumos/platform/pydevi2c"
+UPSTREAM_BUGSDB="None"
+LOCAL_BUGSDB="http://crosbug.com/"
+LICENSE="Chromium"
+LICENSE_FILE="LICENSE"
